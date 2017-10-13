@@ -33,7 +33,7 @@ If you have any issues, please feel free to contact me at:
 
 ### License
 
-Bootstrap is released under the MIT license and is copyright 2016 Twitter
+* Bootstrap is released under the MIT license and is copyright 2016 Twitter
 
 
 Copyright (c) 2017 **Cat Janowitz**
