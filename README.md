@@ -11,9 +11,9 @@ This is a solo project that involves the design of a portfolio webpage using HTM
 ## Setup/Installation Requirements
 
 * open index.html file in your browser
-* or access gh-pages assigned to this project
+* or access gh-pages assigned to this project:
 
-* link to GitHub Pages: [Portfolio Page] (thatcat13.github.io/cat-portfolio)
+thatcat13.github.io/cat-portfolio
 
 
 
