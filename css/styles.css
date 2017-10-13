@@ -8,6 +8,15 @@ body {
   font-style: italic;
 }
 
+.card-img-top {
+  padding: 10px;
+
+}
+
+.card-text, .card-title {
+  margin: 25px;
+}
+
 .btn {
   color: black;
 
