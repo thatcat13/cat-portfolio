@@ -13,7 +13,7 @@ This is a solo project that involves the design of a portfolio webpage using HTM
 * open index.html file in your browser
 * or access gh-pages assigned to this project:
 
-thatcat13.github.io/cat-portfolio
+* thatcat13.github.io/cat-portfolio
 
 
 
