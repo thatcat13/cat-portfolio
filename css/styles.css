@@ -27,3 +27,17 @@ body {
   border: 2px solid grey;
   margin: 25px;
 }
+
+.box-model img {
+  padding: 10px auto;
+  margin: 25px 25px auto;
+  float: left;
+  clear: both;
+  border-radius: 5%;
+
+}
+
+.float p {
+  padding: 25px;
+  margin: 25px auto;
+}
