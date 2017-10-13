@@ -2,3 +2,11 @@
   color: black;
 
 }
+
+body {
+  background-color: #ffc6b3;
+}
+
+.lead {
+  font-style: italic;
+}
