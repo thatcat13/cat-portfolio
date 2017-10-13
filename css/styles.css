@@ -1,12 +1,20 @@
+
+
+body {
+  background-color: #d9d9d9;
+}
+
+.lead {
+  font-style: italic;
+}
+
 .btn {
   color: black;
 
 }
 
-body {
-  background-color: #ffc6b3;
-}
-
-.lead {
-  font-style: italic;
+.box-model {
+  background-color: grey;
+  border: 2px solid grey;
+  margin: 25px;
 }
