@@ -26,7 +26,7 @@ body {
 .box-model {
   background-color: grey;
   border: 2px solid grey;
-  margin: 25px;
+  margin: 0;
 }
 
 .box-model img {
